@@ -1,4 +1,4 @@
-ARG FROM_TAG=3261.v9c670a_4748a_9-8-jdk11
+ARG FROM_TAG=3355.v388858a_47b_33-19-jdk21
 
 FROM jenkins/inbound-agent:${FROM_TAG}
 

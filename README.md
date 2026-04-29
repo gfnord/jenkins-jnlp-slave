@@ -43,3 +43,4 @@ The following distributions are supported:
 * debian
 * jdk11
 * jdk17
+* jdk21
